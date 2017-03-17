@@ -1,0 +1,30 @@
+Sat Jan 07 20:59:34 2017
+
+iCDB version: ver.1.006 (build 351731 created 2009-06-29 11:54:20)
+iCDB engine version: ver.2.050 (build 351731 created 2009-06-29 11:54:20)
+iCDB snapshot: Design1_Layout_Temp
+iCDB top block: Schematic1
+CES client info: address: celab1:clim:3812, session id: 0x69
+List of all iCDB clients:
+ => Client info: address: celab1:clim:4884, session id: 0x60, offline: 0, offline seconds: 0
+    (*) Sub-client: DxD
+    (*) Sub-client: xprob
+    (*) Sub-client: SelectionHolder
+    (*) Sub-client: Navigator
+    (*) Sub-client: PlaceDevice
+    (*) Sub-client: OutputWindow
+    (*) Sub-client: SAE
+    (*) Sub-client: ICE
+    (*) Sub-client: DxDbSearch
+    (*) Sub-client: BlockCacheDxD:23698
+    (*) Sub-client: ObjectHolder6092
+    (*) Sub-client: GlobalNetAliasUpdater25534
+ => Client info: address: celab1:clim:3524, session id: 0x68, offline: 0, offline seconds: 0
+    (*) Sub-client: Expedition PCB_2127098732
+    (*) Sub-client: ExpeditionCrossProber
+ => Client info: address: celab1:clim:3812, session id: 0x69, offline: 0, offline seconds: 0
+    (*) Sub-client: clim (BE CES)
+Loading C:\modeltech_10.1b\2007.6EE\SDD_HOME\standard\ce_ee.cns
+Note: Central Library: X:\OstraCam_II\ece189library
+Note: iCDB connection status changed to: OnLine
+Note: iCDB server address: celab1

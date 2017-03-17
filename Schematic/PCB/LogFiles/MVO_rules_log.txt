@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'H:\OstraCam_II\Schematic\PCB\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'H:\OstraCam_II\Schematic\PCB\Layout\MVO_Rules.txt'

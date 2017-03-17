@@ -1,0 +1,195 @@
+[2017.01.23 16:54:29] [0000m.00s.027ms] [0] WELCOME
+[2017.01.23 16:54:29] [0000m.00s.067ms] [1] iCDB Server ver.1.006, h6u2+m36XhxpX86jIwEfuw, build:351731 created 2009-06-29 11:54:20, sources stamp:h6u2+m36XhxpX86jIwEfuw
+[2017.01.23 16:54:29] [0000m.00s.067ms] [1] Copyright 2009 Mentor Graphics Corporation. All Rights Reserved.
+[2017.01.23 16:54:29] [0000m.00s.067ms] [1] GBS Install Id [10790], Flow Id [EE2007.6], Full Flow Name[Expedition Enterprise Flow], Exact Access Date[May 1 2009]
+[2017.01.23 16:54:29] [0000m.00s.077ms] [1] Machine [celab13]  User [clim]  PID [1908]
+[2017.01.23 16:54:29] [0000m.00s.077ms] [1] Operating system [Microsoft  Service Pack 1 (build 7601)]
+[2017.01.23 16:54:29] [0000m.00s.079ms] [1] WDIR [c:\temp\iCDB]
+[2017.01.23 16:54:29] [0000m.00s.079ms] [1] SDD_HOME [C:\modeltech_10.1b\2007.6EE\SDD_HOME]
+[2017.01.23 16:54:29] [0000m.00s.079ms] [1] SDD_PLATFORM [win32]
+[2017.01.23 16:54:29] [0000m.00s.080ms] [2] S: Loading config files
+[2017.01.23 16:54:29] [0000m.00s.087ms] [1] Config: WARNING: Could not open config file [H:\OstraCam_II\Schematic\database\cdbsvr\Server.cfg]
+[2017.01.23 16:54:29] [0000m.00s.087ms] [3] S: Config loaded
+[2017.01.23 16:54:29] [0000m.00s.162ms] [0] S: Single-user mode (auto)
+[2017.01.23 16:54:29] [0000m.00s.162ms] [0] S: Event polling mode autodetection
+[2017.01.23 16:54:29] [0000m.00s.167ms] [0] S: Started up automatically by iCDB Client: celab13:clim:3472
+[2017.01.23 16:54:29] [0000m.00s.167ms] [0] S: Auto close mode
+[2017.01.23 16:54:29] [0000m.00s.167ms] [0] S: Project [H:\OstraCam_II\Schematic\database]
+[2017.01.23 16:54:29] [0000m.00s.167ms] [0] S: Database ID [76fc-3653-b114-8661-0d01-f685-d01f-6850-f2b0-a0fe-9f1c-16c5]
+[2017.01.23 16:54:29] [0000m.00s.167ms] [0] S: START
+[2017.01.23 16:54:29] [0000m.00s.175ms] [0] S: Server startup lock file created
+[2017.01.23 16:54:29] [0000m.00s.200ms] [0] S: Listening for client connections on port [10000]
+[2017.01.23 16:54:30] [0000m.00s.201ms] [0] S: Server network ID [celab13:128.111.58.175,celab13:10000]
+[2017.01.23 16:54:30] [0000m.00s.201ms] [0] S: Server GUID [8d52-6003-c699-5d81-5c5a-688a-c5a6-8850-3541-a0fe-af5c-49c5]
+[2017.01.23 16:54:30] [0000m.00s.205ms] [0] S: Project GUID [76fc-3653-b114-8661-0d01-f685-d01f-6850-f2b0-a0fe-9f1c-16c5]
+[2017.01.23 16:54:30] [0000m.00s.238ms] [0] S: Wrote data to server address file
+[2017.01.23 16:54:30] [0000m.00s.248ms] [0] S: Server startup lock file removed
+[2017.01.23 16:54:30] [0000m.00s.248ms] [1] S: WARNING: The last server session [2017-01-20 11.27.08-2664] with GUID [e06a-a924-92c2-3a55-c846-2881-9462-8850-7b70-a0fe-af5c-49c5] on this machine with WDIR [c:\temp] failed to complete due to lost connection with database filer.
+[2017.01.23 16:54:30] [0000m.00s.249ms] [1] S: WARNING: Part of the database was saved in [c:\temp\iCDB\Server\backup\e06a-a924-92c2-3a55-c846-2881-9462-8850-7b70-a0fe-af5c-49c5]. Will try to auto-repair.
+[2017.01.23 16:54:30] [0000m.00s.249ms] [0] iCDB Server PI: Backuping database [H:\OstraCam_II\Schematic\database] to file [H:\OstraCam_II\Schematic\database\cdbback\2017-01-23 16.54.30-1908-il.zip]
+[2017.01.23 16:54:30] [0000m.00s.861ms] [0] iCDB Server PI: Backup database: DONE
+[2017.01.23 16:54:30] [0000m.01s.126ms] [1] S: WARNING: Database backuped to [H:\OstraCam_II\Schematic\database\cdbback\2017-01-23 16.54.30-1908-il.zip]
+[2017.01.23 16:54:30] [0000m.01s.127ms] [0] iCDB Server PI: Backuping database [c:\temp\iCDB\Server\backup\e06a-a924-92c2-3a55-c846-2881-9462-8850-7b70-a0fe-af5c-49c5] to file [H:\OstraCam_II\Schematic\database\cdbback\2017-01-23 16.54.30-1908-iw.zip]
+[2017.01.23 16:54:30] [0000m.01s.147ms] [0] iCDB Server PI: Backup database: DONE
+[2017.01.23 16:54:30] [0000m.01s.155ms] [1] S: WARNING: Critical dump backuped to [H:\OstraCam_II\Schematic\database\cdbback\2017-01-23 16.54.30-1908-iw.zip]
+[2017.01.23 16:54:30] [0000m.01s.157ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1007] [1007]
+[2017.01.23 16:54:30] [0000m.01s.158ms] [0] SingleFile: [66be-cdc7-224f-0587] SFI version check [1007] [1007]
+[2017.01.23 16:54:30] [0000m.01s.162ms] [0] SingleFile: [66be-cdc7-224f-0587] Reset holes information - force defragmentation
+[2017.01.23 16:54:30] [0000m.01s.180ms] [0] iCDB Server PI: Backuping database [H:\OstraCam_II\Schematic\database] to file [H:\OstraCam_II\Schematic\database\cdbback\2017-01-23 16.54.30-1908-f.zip]
+[2017.01.23 16:54:31] [0000m.01s.335ms] [0] iCDB Server PI: Backup database: DONE
+[2017.01.23 16:54:31] [0000m.01s.387ms] [1] S: WARNING: Database auto-repaired!
+[2017.01.23 16:54:31] [0000m.01s.438ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.01.23 16:54:31] [0000m.01s.439ms] [0] S: Local disc access time: 57 us
+[2017.01.23 16:54:31] [0000m.01s.439ms] [0] S: Filer access time: 400 us
+[2017.01.23 16:54:31] [0000m.01s.439ms] [0] S: WARNING: Slow connection to iCDB database filer
+[2017.01.23 16:54:31] [0000m.01s.439ms] [0] S: WARNING: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2017.01.23 16:54:31] [0000m.01s.442ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1007] [1007]
+[2017.01.23 16:54:31] [0000m.01s.444ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1007] [1007]
+[2017.01.23 16:54:31] [0000m.01s.444ms] [0] SingleFile: [66be-cdc7-224f-0587] SFI version check [1007] [1007]
+[2017.01.23 16:54:31] [0000m.01s.449ms] [0] iCDB Server PI: Server & plugin session [153]
+[2017.01.23 16:54:31] [0000m.01s.449ms] [0] iCDB Server PI: Opening database [H:\OstraCam_II\Schematic\database]
+[2017.01.23 16:54:31] [0000m.01s.449ms] [0] iCDB Server PI: Database [H:\OstraCam_II\Schematic\database] opened
+[2017.01.23 16:54:31] [0000m.01s.449ms] [0] iCDB Server PI: Checking existence of constraint definitions
+[2017.01.23 16:54:31] [0000m.01s.449ms] [0] iCDB Server PI: Checking constraint definitions version
+[2017.01.23 16:54:31] [0000m.01s.469ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.6.4] up to date
+[2017.01.23 16:54:31] [0000m.01s.469ms] [0] iCDB Server PI: Initializing plugins
+[2017.01.23 16:54:31] [0000m.01s.473ms] [0] iCDB Server PI: Plugins initialized
+[2017.01.23 16:54:31] [0000m.01s.473ms] [0] S: iCDB database loaded
+[2017.01.23 16:54:31] [0000m.01s.473ms] [0] S: Starting threads
+[2017.01.23 16:54:31] [0000m.01s.473ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.01.23 16:54:31] [0000m.01s.474ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.01.23 16:54:31] [0000m.01s.474ms] [0] IT: Session [154] for host [celab13] user [clim] with process ID [3472] created
+[2017.01.23 16:54:31] [0000m.01s.475ms] [1] SC[154]: Registered sub-client [DxD] with ID [1] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:31] [0000m.01s.483ms] [1] SC[154]: Registered sub-client [xprob] with ID [2] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:31] [0000m.01s.574ms] [1] CMT: There are [1] clients now
+[2017.01.23 16:54:33] [0000m.03s.685ms] [1] SC[154]: Registered sub-client [SelectionHolder] with ID [3] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:35] [0000m.06s.173ms] [1] SC[154]: Registered sub-client [Navigator] with ID [4] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:35] [0000m.06s.175ms] [1] SC[154]: Registered sub-client [PlaceDevice] with ID [5] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:36] [0000m.06s.290ms] [1] SC[154]: Registered sub-client [OutputWindow] with ID [6] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:36] [0000m.06s.291ms] [1] SC[154]: Registered sub-client [SAE] with ID [7] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:36] [0000m.06s.293ms] [1] SC[154]: Registered sub-client [ICE] with ID [8] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:36] [0000m.06s.322ms] [1] SC[154]: Registered sub-client [DxDbSearch] with ID [9] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:46] [0000m.16s.476ms] [1] SC[154]: Registered sub-client [BlockCacheDxD:25123] with ID [10] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:46] [0000m.16s.476ms] [1] SC[154]: Registered sub-client [ObjectHolder16281] with ID [11] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:54:46] [0000m.16s.477ms] [1] SC[154]: Registered sub-client [GlobalNetAliasUpdater13110] with ID [12] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 16:56:32] [0002m.02s.707ms] [0] IT: Session [155] for host [celab13] user [clim] with process ID [4828] created
+[2017.01.23 16:56:32] [0002m.02s.709ms] [1] SC[155]: Registered sub-client [Expedition PCB_1086643231] with ID [1] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 16:56:32] [0002m.02s.783ms] [1] CMT: There are [2] clients now
+[2017.01.23 16:56:34] [0002m.05s.103ms] [1] SC[155]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:53] [0020m.24s.008ms] [1] SC[155]: Registered sub-client [JobPrefsDBPI_1087744583] with ID [3] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:53] [0020m.24s.084ms] [1] SC[155]: Registered sub-client [JobPrefsDBPI_1087744661] with ID [4] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:54] [0020m.24s.254ms] [1] SC[155]: UnRegistered sub-client [JobPrefsDBPI_1087744583] with ID [3] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:54] [0020m.24s.260ms] [1] SC[155]: UnRegistered sub-client [JobPrefsDBPI_1087744661] with ID [4] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:57] [0020m.27s.707ms] [1] SC[155]: Registered sub-client [JobPrefsDBPI_1087748280] with ID [5] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:57] [0020m.27s.724ms] [1] SC[155]: UnRegistered sub-client [JobPrefsDBPI_1087748280] with ID [5] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:57] [0020m.27s.825ms] [1] SC[155]: Registered sub-client [JobPrefsDBPI_1087748389] with ID [6] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:57] [0020m.27s.850ms] [1] SC[155]: UnRegistered sub-client [JobPrefsDBPI_1087748389] with ID [6] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:14:57] [0020m.28s.130ms] [0] IT: Session [156] for host [celab13] user [clim] with process ID [3444] created
+[2017.01.23 17:14:57] [0020m.28s.130ms] [1] SC[156]: Registered sub-client [JobPrefsDBPI_1087748670] with ID [1] for session ID [156] host [celab13] user [clim] process ID [3444]
+[2017.01.23 17:14:57] [0020m.28s.163ms] [1] SC[156]: Registered sub-client [JobPrefsDBPI_1087748732] with ID [2] for session ID [156] host [celab13] user [clim] process ID [3444]
+[2017.01.23 17:14:57] [0020m.28s.173ms] [1] SC[156]: UnRegistered sub-client [JobPrefsDBPI_1087748670] with ID [1] for session ID [156] host [celab13] user [clim] process ID [3444]
+[2017.01.23 17:14:57] [0020m.28s.175ms] [1] SC[156]: UnRegistered sub-client [JobPrefsDBPI_1087748732] with ID [2] for session ID [156] host [celab13] user [clim] process ID [3444]
+[2017.01.23 17:14:57] [0020m.28s.197ms] [1] CMT: There are [3] clients now
+[2017.01.23 17:14:57] [0020m.28s.197ms] [1] CMT: Removed client [156]
+[2017.01.23 17:14:57] [0020m.28s.197ms] [1] CMT: There are [2] clients now
+[2017.01.23 17:14:59] [0020m.29s.291ms] [0] IT: Session [157] for host [celab13] user [clim] with process ID [3444] created
+[2017.01.23 17:14:59] [0020m.29s.292ms] [1] SC[157]: Registered sub-client [JobPrefsDBPI_1087749793] with ID [1] for session ID [157] host [celab13] user [clim] process ID [3444]
+[2017.01.23 17:14:59] [0020m.29s.297ms] [1] CMT: There are [3] clients now
+[2017.01.23 17:14:59] [0020m.29s.330ms] [1] SC[157]: Registered sub-client [JobPrefsDBPI_1087749902] with ID [2] for session ID [157] host [celab13] user [clim] process ID [3444]
+[2017.01.23 17:15:00] [0020m.30s.722ms] [1] SC[157]: UnRegistered sub-client [JobPrefsDBPI_1087749793] with ID [1] for session ID [157] host [celab13] user [clim] process ID [3444]
+[2017.01.23 17:15:00] [0020m.30s.726ms] [1] SC[157]: UnRegistered sub-client [JobPrefsDBPI_1087749902] with ID [2] for session ID [157] host [celab13] user [clim] process ID [3444]
+[2017.01.23 17:15:00] [0020m.30s.797ms] [1] CMT: Removed client [157]
+[2017.01.23 17:15:00] [0020m.30s.797ms] [1] CMT: There are [2] clients now
+[2017.01.23 17:24:50] [0030m.20s.465ms] [1] SC[155]: Registered sub-client [JobPrefsDBPI_1088341037] with ID [7] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:24:50] [0030m.20s.539ms] [1] SC[155]: Registered sub-client [JobPrefsDBPI_1088341115] with ID [8] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:24:50] [0030m.20s.646ms] [1] SC[155]: UnRegistered sub-client [JobPrefsDBPI_1088341037] with ID [7] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:24:50] [0030m.20s.652ms] [1] SC[155]: UnRegistered sub-client [JobPrefsDBPI_1088341115] with ID [8] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:24:53] [0030m.23s.495ms] [1] SC[155]: Registered sub-client [JobPrefsDBPI_1088344063] with ID [9] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:24:53] [0030m.23s.512ms] [1] SC[155]: UnRegistered sub-client [JobPrefsDBPI_1088344063] with ID [9] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:24:53] [0030m.23s.589ms] [1] SC[155]: Registered sub-client [JobPrefsDBPI_1088344157] with ID [10] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:24:53] [0030m.23s.605ms] [1] SC[155]: UnRegistered sub-client [JobPrefsDBPI_1088344157] with ID [10] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:24:53] [0030m.23s.912ms] [0] IT: Session [158] for host [celab13] user [clim] with process ID [4744] created
+[2017.01.23 17:24:53] [0030m.23s.913ms] [1] SC[158]: Registered sub-client [JobPrefsDBPI_1088344453] with ID [1] for session ID [158] host [celab13] user [clim] process ID [4744]
+[2017.01.23 17:24:53] [0030m.23s.932ms] [1] CMT: There are [3] clients now
+[2017.01.23 17:24:53] [0030m.23s.947ms] [1] SC[158]: Registered sub-client [JobPrefsDBPI_1088344516] with ID [2] for session ID [158] host [celab13] user [clim] process ID [4744]
+[2017.01.23 17:24:53] [0030m.23s.957ms] [1] SC[158]: UnRegistered sub-client [JobPrefsDBPI_1088344453] with ID [1] for session ID [158] host [celab13] user [clim] process ID [4744]
+[2017.01.23 17:24:53] [0030m.23s.958ms] [1] SC[158]: UnRegistered sub-client [JobPrefsDBPI_1088344516] with ID [2] for session ID [158] host [celab13] user [clim] process ID [4744]
+[2017.01.23 17:24:53] [0030m.24s.032ms] [1] CMT: Removed client [158]
+[2017.01.23 17:24:53] [0030m.24s.032ms] [1] CMT: There are [2] clients now
+[2017.01.23 17:24:54] [0030m.24s.673ms] [0] IT: Session [159] for host [celab13] user [clim] with process ID [4744] created
+[2017.01.23 17:24:54] [0030m.24s.674ms] [1] SC[159]: Registered sub-client [JobPrefsDBPI_1088345202] with ID [1] for session ID [159] host [celab13] user [clim] process ID [4744]
+[2017.01.23 17:24:54] [0030m.24s.712ms] [1] SC[159]: Registered sub-client [JobPrefsDBPI_1088345280] with ID [2] for session ID [159] host [celab13] user [clim] process ID [4744]
+[2017.01.23 17:24:54] [0030m.24s.732ms] [1] CMT: There are [3] clients now
+[2017.01.23 17:24:55] [0030m.25s.998ms] [1] SC[159]: UnRegistered sub-client [JobPrefsDBPI_1088345202] with ID [1] for session ID [159] host [celab13] user [clim] process ID [4744]
+[2017.01.23 17:24:55] [0030m.26s.000ms] [1] SC[159]: UnRegistered sub-client [JobPrefsDBPI_1088345280] with ID [2] for session ID [159] host [celab13] user [clim] process ID [4744]
+[2017.01.23 17:24:55] [0030m.26s.032ms] [1] CMT: Removed client [159]
+[2017.01.23 17:24:55] [0030m.26s.032ms] [1] CMT: There are [2] clients now
+[2017.01.23 17:26:26] [0031m.56s.992ms] [1] SC[155]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:26:27] [0031m.57s.888ms] [1] SC[155]: Registered sub-client [iCDBBackup] with ID [11] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:26:27] [0031m.57s.889ms] [1] iCDB Storage Server: Backup queued: NetSubClientData[ClientData[ClientNetAddress[celab13] # ClientUserName[clim] # ClientProcessID[4828] # SessionID[155]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[11]]] ProjectPath[H:\OstraCam_II\Schematic\database] BackupPath[H:\OstraCam_II\Schematic\AutoBackup\1485221187\database] WithLogFiles[1] Overwrite[0]
+[2017.01.23 17:26:27] [0031m.58s.016ms] [1] SC[155]: UnRegistered sub-client [iCDBBackup] with ID [11] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:26:28] [0031m.58s.471ms] [1] iCDB Storage Server Backup Thread: Backup done: NetSubClientData[ClientData[ClientNetAddress[celab13] # ClientUserName[clim] # ClientProcessID[4828] # SessionID[155]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[11]]] BackupPath[H:\OstraCam_II\Schematic\AutoBackup\1485221187] WithLogFiles[1] Overwrite[0]
+[2017.01.23 17:26:28] [0031m.58s.539ms] [1] SC[155]: UnRegistered sub-client [Expedition PCB_1086643231] with ID [1] for session ID [155] host [celab13] user [clim] process ID [4828]
+[2017.01.23 17:26:28] [0031m.58s.638ms] [1] CMT: Removed client [155]
+[2017.01.23 17:26:28] [0031m.58s.638ms] [1] CMT: There are [1] clients now
+[2017.01.23 17:26:39] [0032m.10s.151ms] [0] IT: Session [160] for host [celab13] user [clim] with process ID [5176] created
+[2017.01.23 17:26:39] [0032m.10s.153ms] [1] SC[160]: Registered sub-client [Expedition PCB_1088450675] with ID [1] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:26:40] [0032m.10s.239ms] [1] CMT: There are [2] clients now
+[2017.01.23 17:26:43] [0032m.13s.244ms] [1] SC[160]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:31] [0033m.01s.401ms] [1] SC[160]: Registered sub-client [JobPrefsDBPI_1088501968] with ID [3] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:31] [0033m.01s.485ms] [1] SC[160]: Registered sub-client [JobPrefsDBPI_1088502061] with ID [4] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:31] [0033m.01s.573ms] [1] SC[160]: UnRegistered sub-client [JobPrefsDBPI_1088501968] with ID [3] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:31] [0033m.01s.579ms] [1] SC[160]: UnRegistered sub-client [JobPrefsDBPI_1088502061] with ID [4] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:33] [0033m.03s.255ms] [1] SC[160]: Registered sub-client [JobPrefsDBPI_1088503824] with ID [5] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:33] [0033m.03s.271ms] [1] SC[160]: UnRegistered sub-client [JobPrefsDBPI_1088503824] with ID [5] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:33] [0033m.03s.345ms] [1] SC[160]: Registered sub-client [JobPrefsDBPI_1088503918] with ID [6] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:33] [0033m.03s.363ms] [1] SC[160]: UnRegistered sub-client [JobPrefsDBPI_1088503918] with ID [6] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:27:33] [0033m.03s.732ms] [0] IT: Session [161] for host [celab13] user [clim] with process ID [6048] created
+[2017.01.23 17:27:33] [0033m.03s.733ms] [1] SC[161]: Registered sub-client [JobPrefsDBPI_1088504277] with ID [1] for session ID [161] host [celab13] user [clim] process ID [6048]
+[2017.01.23 17:27:33] [0033m.03s.742ms] [1] CMT: There are [3] clients now
+[2017.01.23 17:27:33] [0033m.03s.760ms] [1] SC[161]: Registered sub-client [JobPrefsDBPI_1088504323] with ID [2] for session ID [161] host [celab13] user [clim] process ID [6048]
+[2017.01.23 17:27:33] [0033m.03s.769ms] [1] SC[161]: UnRegistered sub-client [JobPrefsDBPI_1088504277] with ID [1] for session ID [161] host [celab13] user [clim] process ID [6048]
+[2017.01.23 17:27:33] [0033m.03s.771ms] [1] SC[161]: UnRegistered sub-client [JobPrefsDBPI_1088504323] with ID [2] for session ID [161] host [celab13] user [clim] process ID [6048]
+[2017.01.23 17:27:33] [0033m.03s.842ms] [1] CMT: Removed client [161]
+[2017.01.23 17:27:33] [0033m.03s.842ms] [1] CMT: There are [2] clients now
+[2017.01.23 17:27:34] [0033m.04s.849ms] [0] IT: Session [162] for host [celab13] user [clim] with process ID [6048] created
+[2017.01.23 17:27:34] [0033m.04s.850ms] [1] SC[162]: Registered sub-client [JobPrefsDBPI_1088505384] with ID [1] for session ID [162] host [celab13] user [clim] process ID [6048]
+[2017.01.23 17:27:34] [0033m.04s.884ms] [1] SC[162]: Registered sub-client [JobPrefsDBPI_1088505462] with ID [2] for session ID [162] host [celab13] user [clim] process ID [6048]
+[2017.01.23 17:27:34] [0033m.04s.942ms] [1] CMT: There are [3] clients now
+[2017.01.23 17:27:35] [0033m.06s.117ms] [1] SC[162]: UnRegistered sub-client [JobPrefsDBPI_1088505384] with ID [1] for session ID [162] host [celab13] user [clim] process ID [6048]
+[2017.01.23 17:27:35] [0033m.06s.120ms] [1] SC[162]: UnRegistered sub-client [JobPrefsDBPI_1088505462] with ID [2] for session ID [162] host [celab13] user [clim] process ID [6048]
+[2017.01.23 17:27:35] [0033m.06s.142ms] [1] CMT: Removed client [162]
+[2017.01.23 17:27:35] [0033m.06s.142ms] [1] CMT: There are [2] clients now
+[2017.01.23 17:34:03] [0039m.33s.519ms] [1] SC[160]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:34:04] [0039m.34s.458ms] [1] SC[160]: UnRegistered sub-client [Expedition PCB_1088450675] with ID [1] for session ID [160] host [celab13] user [clim] process ID [5176]
+[2017.01.23 17:34:04] [0039m.34s.466ms] [1] CMT: Removed client [160]
+[2017.01.23 17:34:04] [0039m.34s.466ms] [1] CMT: There are [1] clients now
+[2017.01.23 17:35:02] [0040m.32s.297ms] [1] SC[154]: UnRegistered sub-client [GlobalNetAliasUpdater13110] with ID [12] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.297ms] [1] SC[154]: UnRegistered sub-client [BlockCacheDxD:25123] with ID [10] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.297ms] [1] SC[154]: UnRegistered sub-client [ObjectHolder16281] with ID [11] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.298ms] [1] SC[154]: UnRegistered sub-client [ICE] with ID [8] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.299ms] [1] SC[154]: UnRegistered sub-client [SelectionHolder] with ID [3] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.328ms] [1] SC[154]: UnRegistered sub-client [DxD] with ID [1] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.343ms] [1] SC[154]: UnRegistered sub-client [xprob] with ID [2] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.492ms] [1] SC[154]: UnRegistered sub-client [Navigator] with ID [4] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.492ms] [1] SC[154]: UnRegistered sub-client [OutputWindow] with ID [6] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.492ms] [1] SC[154]: UnRegistered sub-client [SAE] with ID [7] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.628ms] [1] SC[154]: UnRegistered sub-client [DxDbSearch] with ID [9] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.644ms] [1] SC[154]: UnRegistered sub-client [PlaceDevice] with ID [5] for session ID [154] host [celab13] user [clim] process ID [3472]
+[2017.01.23 17:35:02] [0040m.32s.671ms] [1] CMT: Removed client [154]
+[2017.01.23 17:35:02] [0040m.32s.671ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.01.23 17:35:04] [0040m.34s.271ms] [0] CMT: Starting server auto-close
+[2017.01.23 17:35:04] [0040m.34s.275ms] [0] S: Closing server
+[2017.01.23 17:35:04] [0040m.34s.372ms] [0] iCDB Server PI: Closing plugins
+[2017.01.23 17:35:04] [0040m.34s.372ms] [0] iCDB Server PI: Plugins closed
+[2017.01.23 17:35:04] [0040m.34s.372ms] [0] iCDB Server PI: Unloading database
+[2017.01.23 17:35:04] [0040m.34s.372ms] [0] iCDB Server PI: Saving storage
+[2017.01.23 17:35:04] [0040m.34s.373ms] [0] iCDB Server PI: Closing database
+[2017.01.23 17:35:04] [0040m.34s.373ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[6%] data[78%]
+[2017.01.23 17:35:04] [0040m.34s.373ms] [1] iCDB Server PI: Stats: Database file size [190448] bytes
+[2017.01.23 17:35:04] [0040m.34s.400ms] [0] iCDB Server PI: Database closed
+[2017.01.23 17:35:04] [0040m.34s.400ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [28815] ticks
+[2017.01.23 17:35:04] [0040m.34s.400ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [8449] microseconds
+[2017.01.23 17:35:04] [0040m.34s.400ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [639]
+[2017.01.23 17:35:04] [0040m.34s.400ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [75623] commands per second
+[2017.01.23 17:35:04] [0040m.34s.536ms] [0] S: STOP

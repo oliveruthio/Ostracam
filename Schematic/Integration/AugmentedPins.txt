@@ -1,0 +1,23 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part VOLTAGE_Regulator3.3LP           |
+       VR3                             |    1| GND
+       VR2                             |    1| GND
+ Part ESP8266                          |
+       U1                              |    3| <unconnected pin>
+       U1                              |    6| <unconnected pin>
+       U1                              |    7| <unconnected pin>
+       U1                              |    8| <unconnected pin>
+       U1                              |    9| <unconnected pin>
+       U1                              |   10| <unconnected pin>
+       U1                              |   29| <unconnected pin>
+       U1                              |   30| <unconnected pin>
+       U1                              |   31| <unconnected pin>
+       U1                              |   32| <unconnected pin>
+ Part BNC_Connector                    |
+       J4                              |    3| <unconnected pin>
+       J4                              |    4| <unconnected pin>
+       J3                              |    3| <unconnected pin>
+       J3                              |    4| <unconnected pin>

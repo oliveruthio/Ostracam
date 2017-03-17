@@ -1,0 +1,429 @@
+
+                                DRC - (Final DRC)
+                                -----------------
+
+                       09:07 PM Saturday, January 07, 2017
+               Job Name: H:\OstraCam_II\Schematic\PCB\Design1.pcb
+
+
+    ---------
+    PROXIMITY
+    ---------
+    
+    Use DRC Window                   : NO
+
+
+    Disable Same Cell Pad-Pad Checks : NO
+
+
+    Enable Same Net Pad-Pad Checks   : NO
+
+    
+    Layers Specifed To Check         : Layer 1
+                                       Layer 2
+                                       Layer 3
+                                       Layer 4
+
+
+
+
+    Net Class Clearances And Rules
+    ------------------------------
+
+        Components Layer 1 TO Components Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Traces Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Part Pads SMD Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Part Pads Thru Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Part Holes Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Part Pads SMD Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Part Pads Thru Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Part Holes Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Part Pads Thru Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Part Holes Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Part Holes Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Part Holes Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Via Pads Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Via Pads Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Via Holes Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Part Pads Thru Layer 2
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Part Holes Layer 2
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Part Holes Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Part Holes Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Via Pads Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Via Pads Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Via Holes Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Part Pads Thru Layer 3 TO Part Pads Thru Layer 3
+            No Hazards.
+
+        Part Pads Thru Layer 3 TO Part Holes Layer 3
+            No Hazards.
+
+        Part Pads Thru Layer 3 TO Via Pads Layer 3
+            No Hazards.
+
+        Part Pads Thru Layer 3 TO Via Holes Layer 3
+            No Hazards.
+
+        Part Holes Layer 3 TO Via Pads Layer 3
+            No Hazards.
+
+        Part Holes Layer 3 TO Via Holes Layer 3
+            No Hazards.
+
+        Via Pads Layer 3 TO Via Pads Layer 3
+            No Hazards.
+
+        Via Pads Layer 3 TO Via Holes Layer 3
+            No Hazards.
+
+        Via Holes Layer 3 TO Via Holes Layer 3
+            No Hazards.
+
+        Traces Layer 4 TO Traces Layer 4
+            No Hazards.
+
+        Traces Layer 4 TO Part Pads Thru Layer 4
+            No Hazards.
+
+        Traces Layer 4 TO Part Holes Layer 4
+            No Hazards.
+
+        Traces Layer 4 TO Via Pads Layer 4
+            No Hazards.
+
+        Traces Layer 4 TO Via Holes Layer 4
+            No Hazards.
+
+        Part Pads Thru Layer 4 TO Part Pads Thru Layer 4
+            No Hazards.
+
+        Part Pads Thru Layer 4 TO Part Holes Layer 4
+            No Hazards.
+
+        Part Pads Thru Layer 4 TO Via Pads Layer 4
+            No Hazards.
+
+        Part Pads Thru Layer 4 TO Via Holes Layer 4
+            No Hazards.
+
+        Part Holes Layer 4 TO Via Pads Layer 4
+            No Hazards.
+
+        Part Holes Layer 4 TO Via Holes Layer 4
+            No Hazards.
+
+        Via Pads Layer 4 TO Via Pads Layer 4
+            No Hazards.
+
+        Via Pads Layer 4 TO Via Holes Layer 4
+            No Hazards.
+
+        Via Holes Layer 4 TO Via Holes Layer 4
+            No Hazards.
+
+
+        Total Hazards Found : 0
+
+
+
+
+    Planes Clearances And Rules
+    ---------------------------
+
+        No Proximity Checks Performed.
+
+
+
+
+    Non-Net Class Element To Element Clearances And Rules
+    -----------------------------------------------------
+
+        Via Obstructs Layer 1 TO Via Pads Layer 1    Clearance: 0th
+            No Hazards.
+
+        Via Holes Layer 1 TO Via Obstructs Layer 1    Clearance: 0th
+            No Hazards.
+
+        Route Border TO Via Pads Layer 1    Clearance: 0th
+            No Hazards.
+
+        Route Border TO Traces Layer 1    Clearance: 0th
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Route Border    Clearance: 0th
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Route Border    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Part Pads Thru Layer 1    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Via Holes Layer 1    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Via Pads Layer 1    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Part Holes Layer 1    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Placement Outlines Layer 1    Clearance: 10th
+            No Hazards.
+
+        Board Outline TO Part Pads SMD Layer 1    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Traces Layer 1    Clearance: 0th
+            No Hazards.
+
+        Route Border TO Via Pads Layer 2    Clearance: 0th
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Route Border    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Part Pads Thru Layer 2    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Via Holes Layer 2    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Via Pads Layer 2    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Part Holes Layer 2    Clearance: 0th
+            No Hazards.
+
+        Route Border TO Via Pads Layer 3    Clearance: 0th
+            No Hazards.
+
+        Part Pads Thru Layer 3 TO Route Border    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Part Pads Thru Layer 3    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Via Holes Layer 3    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Via Pads Layer 3    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Part Holes Layer 3    Clearance: 0th
+            No Hazards.
+
+        Route Border TO Via Pads Layer 4    Clearance: 0th
+            No Hazards.
+
+        Route Border TO Traces Layer 4    Clearance: 0th
+            No Hazards.
+
+        Part Pads Thru Layer 4 TO Route Border    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Part Pads Thru Layer 4    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Via Holes Layer 4    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Via Pads Layer 4    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Part Holes Layer 4    Clearance: 0th
+            No Hazards.
+
+        Board Outline TO Traces Layer 4    Clearance: 0th
+            No Hazards.
+
+
+        Total Hazards Found : 0
+
+
+
+
+    Bond Wire Clearances And Rules
+    ------------------------------
+
+    Bond Wire Checks Not Selected.
+
+
+
+    Total Proximity Hazards Found : 0
+
+
+
+
+    ----------------------------
+    CONNECTIVITY & SPECIAL RULES
+    ----------------------------
+
+
+    Check For Unplaced Parts                      : YES
+        No Hazards.
+
+
+    Check For Missing Parts                       : YES
+        No Hazards.
+
+
+    Check EP Component Hazards                    : YES
+        No Hazards.
+
+
+    Check Bond Wire Hazards                       : YES
+
+
+    Check Trace Hangers                           : YES
+        Hazards Found : 6
+
+
+    Check Trace Loops                             : YES
+        No Hazards.
+
+
+    Check Trace Widths                            : YES
+        No Hazards.
+
+
+    Check Single Point Nets                       : NO
+
+
+    Check NonPlane Unrouted/Partially Routed Nets : YES
+        Hazards Found : 3
+
+
+    Check Plane Unrouted/Partial Routed Nets      : YES
+        Hazards Found : 30
+
+
+    Check Routed Plane Pins                       : YES
+        No Hazards.
+
+
+    Check Plane Islands                           : YES
+        No Hazards.
+
+
+    Check Dangling Vias/Jumpers                   : YES
+        Hazards Found : 29
+
+
+    Check Unrouted Pins                           : YES
+        Hazards Found : 17
+
+
+    Check Routed Non-Plated Pins                  : YES
+        No Hazards.
+
+
+    Check Minimum Annular Ring                    : NO
+
+
+    Check For Vias Under SMD Pads                 : YES
+        No Hazards.
+
+
+    Check For Vias Under Top Place Outlines       : YES
+        No Hazards.
+
+
+    Check For Vias Under Bottom Place Outlines    : YES
+        No Hazards.
+
+
+    Check For Missing Conductive Pads             : NO
+
+
+    Check For Missing Part Soldermask Pads        : NO
+
+
+    Check For Missing Via Soldermask Pads         : NO
+
+
+    Check For Missing Solderpaste Pads            : NO
+
+
+
+    Total Connectivity/SpecialRules Hazards Found : 85
+
+
+
+    ====================================================================
+
+
+
+    Total DRC Hazards Found : 85
+
+
+
+                         09:07 PM Saturday, January 07, 2017

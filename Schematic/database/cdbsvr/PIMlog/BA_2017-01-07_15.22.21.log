@@ -1,0 +1,118 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: Design1_layout_temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,Level_Shifter_i2c.1,(6-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(6-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,ESP8266.1,(2-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,POWER_Connector.1,(10-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,EZO-pH.1,(8-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(10-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,Switching_Regulator.1,(12-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(6-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,TactileSwitch.1,(2-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(6-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(2-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(10-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,voltage_regulator3v.1,(12-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(2-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BNCConnector.1,(8-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(10-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(10-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,POWER_Connector.1,(10-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,voltage_regulator3v.1,(12-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BNCConnector.1,(8-16-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,REG-I1O3G24.1,(12-17-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,SD.1,(2-19-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,Level_Shifter_i2c.1,(8-21-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(8-23-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(8-24-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(8-25-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,EZO-pH.1,(8-30-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-48-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-56-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-60-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-62-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-63-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-68-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-73-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-80-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-85-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-88-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,CAP.1,(12-93-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(17-4-23)]  [O: CesConstraint,PLANE_NETS,(17-25-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(17-4-23)]  [O: CesConstraint,PNET_CLEARANCES,(17-26-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(17-4-23)]  [O: CesConstraint,PNET_UBORDERS,(17-27-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(17-6-23)]  [O: CesConstraint,PLANE_NETS,(17-41-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(17-6-23)]  [O: CesConstraint,PNET_CLEARANCES,(17-42-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(17-6-23)]  [O: CesConstraint,PNET_UBORDERS,(17-43-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2017-01-07 15:22:21) 
+--------------------------------------------------------------------------------

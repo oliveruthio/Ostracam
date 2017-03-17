@@ -1,0 +1,87 @@
+Thu Jan 05 20:09:59 2017: iCDBReadSettings.
+Thu Jan 05 20:09:59 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Thu Jan 05 20:09:59 2017: iCDBBackup complete
+Thu Jan 05 20:54:36 2017: iCDBReadSettings.
+Thu Jan 05 20:54:36 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Thu Jan 05 21:00:14 2017: iCDBReadSettings.
+Thu Jan 05 21:00:14 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Thu Jan 05 21:29:43 2017: iCDBReadSettings.
+Thu Jan 05 21:29:43 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Thu Jan 05 21:44:56 2017: iCDBReadSettings.
+Thu Jan 05 21:44:56 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Thu Jan 05 22:51:11 2017: iCDBReadSettings.
+Thu Jan 05 22:51:11 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 13:57:06 2017: iCDBReadSettings.
+Sat Jan 07 13:57:06 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Sat Jan 07 13:57:07 2017: iCDBBackup complete
+Sat Jan 07 15:02:32 2017: iCDBReadSettings.
+Sat Jan 07 15:02:32 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 15:10:02 2017: iCDBReadSettings.
+Sat Jan 07 15:10:02 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 15:13:31 2017: iCDBReadSettings.
+Sat Jan 07 15:13:31 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 15:19:04 2017: iCDBReadSettings.
+Sat Jan 07 15:19:04 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 15:21:27 2017: iCDBReadSettings.
+Sat Jan 07 15:21:27 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 15:24:35 2017: iCDBReadSettings.
+Sat Jan 07 15:24:35 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Sat Jan 07 15:59:05 2017: iCDBReadSettings.
+Sat Jan 07 15:59:05 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 16:04:00 2017: iCDBReadSettings.
+Sat Jan 07 16:04:00 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 16:04:52 2017: iCDBReadSettings.
+Sat Jan 07 16:04:52 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 16:15:16 2017: iCDBReadSettings.
+Sat Jan 07 16:15:16 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 16:16:34 2017: iCDBReadSettings.
+Sat Jan 07 16:16:34 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Sat Jan 07 17:22:46 2017: iCDBReadSettings.
+Sat Jan 07 17:22:46 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Sat Jan 07 17:24:15 2017: iCDBReadSettings.
+Sat Jan 07 17:24:15 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Sat Jan 07 17:24:16 2017: iCDBReadSettings.
+Sat Jan 07 17:24:16 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 17:47:19 2017: iCDBReadSettings.
+Sat Jan 07 17:47:19 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 17:56:19 2017: iCDBReadSettings.
+Sat Jan 07 17:56:19 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Sat Jan 07 17:56:20 2017: iCDBReadSettings.
+Sat Jan 07 17:56:20 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 18:05:15 2017: iCDBReadSettings.
+Sat Jan 07 18:05:15 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Sat Jan 07 18:05:15 2017: iCDBBackup complete
+Sat Jan 07 18:06:57 2017: iCDBReadSettings.
+Sat Jan 07 18:06:57 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Sat Jan 07 21:29:48 2017: iCDBReadSettings.
+Sat Jan 07 21:29:48 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Sat Jan 07 21:30:25 2017: iCDBReadSettings.
+Sat Jan 07 21:30:25 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Fri Jan 13 11:42:29 2017: iCDBReadSettings.
+Fri Jan 13 11:42:29 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Fri Jan 13 11:42:30 2017: H:\OstraCam_II\Schematic\AutoBackup\1483675799 removed
+Fri Jan 13 11:42:30 2017: iCDBBackup complete
+Fri Jan 13 11:42:30 2017: iCDBReadSettings.
+Fri Jan 13 11:42:30 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Tue Jan 17 20:15:22 2017: iCDBReadSettings.
+Tue Jan 17 20:15:22 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Tue Jan 17 20:15:23 2017: H:\OstraCam_II\Schematic\AutoBackup\1483826226 removed
+Tue Jan 17 20:15:23 2017: iCDBBackup complete
+Tue Jan 17 21:50:21 2017: iCDBReadSettings.
+Tue Jan 17 21:50:21 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Tue Jan 17 21:51:09 2017: iCDBReadSettings.
+Tue Jan 17 21:51:09 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner
+Fri Jan 20 11:59:47 2017: iCDBReadSettings.
+Fri Jan 20 11:59:47 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Fri Jan 20 11:59:47 2017: H:\OstraCam_II\Schematic\AutoBackup\1483841115 removed
+Fri Jan 20 11:59:47 2017: iCDBBackup complete
+Fri Jan 20 12:07:50 2017: iCDBReadSettings.
+Fri Jan 20 12:07:50 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Mon Jan 23 17:26:27 2017: iCDBReadSettings.
+Mon Jan 23 17:26:27 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Mon Jan 23 17:26:27 2017: H:\OstraCam_II\Schematic\AutoBackup\1484336549 removed
+Mon Jan 23 17:26:27 2017: iCDBBackup complete
+Mon Jan 23 17:34:04 2017: iCDBReadSettings.
+Mon Jan 23 17:34:04 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: iCDBBackup
+Mon Jan 23 17:35:02 2017: iCDBReadSettings.
+Mon Jan 23 17:35:02 2017: iCDBBackup. ProjectFile: H:\OstraCam_II\Schematic\Schematic.prj, Application: DxDesigner

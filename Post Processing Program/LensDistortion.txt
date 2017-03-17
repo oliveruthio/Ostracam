@@ -1,0 +1,33 @@
+function output = LensDistortion( filename )
+    % camera parameters come from camer calibrate function
+    % calculates the distortion according to points of the checkerboard
+    %cameraParam = 
+    z =0;
+    obj = setupSystemObjects();
+    while ~isDone(obj.reader)
+        frame = readFrame();
+ %       [output, newOrigin] = undistortImage(frame,cameraParam); 
+        if z == 170
+            imwrite(frame, 'C:\Users\oliver\Documents\MATLAB\Lens Distortion\ICC2.jpg');
+            output = 0;
+        end
+        displayResults();
+        z = z+1;
+    end
+    
+    %%
+    function obj = setupSystemObjects()
+        obj.reader = vision.VideoFileReader(filename);
+        obj.videoPlayer = vision.VideoPlayer('Position', [20,400,700,400]);
+    end
+    
+    function frame = readFrame()
+        frame = obj.reader.step();
+    end
+
+    function displayResults()
+        frame = im2uint8(frame);
+        obj.videoPlayer.step(frame);
+    end
+    %%
+end

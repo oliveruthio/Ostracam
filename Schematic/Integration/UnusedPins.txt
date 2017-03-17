@@ -1,0 +1,26 @@
+
+Schematic unused pins from : Packager  20-Jan-2017  11:59
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part BergConnector                    |
+ Part BNC_Connector                    |
+ Part ESP8266                          |
+  U1                                   | (P)  28 26 14 15 5 16
+ Part EZO-EC                           |
+ Part EZO-pH                           |
+ Part KEM_C0805_CAPACITORS             |
+ Part LM3490-3.3VREG                   |
+ Part LNJ406K54RX                      |
+ Part PJ-102AH                         |
+ Part PMB_648                          |
+ Part R-78E5.0-0.5                     |
+ Part RES-0805                         |
+ Part TactileSwitch                    |
+ Part TCA9517                          |
+ Part Temp_Pressure                    |
+ Part VOLTAGE_Regulator3.3LP           |
+ Part 22-03-2031                       |
+ Part 961104-6404-AR                   |

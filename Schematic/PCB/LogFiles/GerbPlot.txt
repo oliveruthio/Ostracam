@@ -1,0 +1,194 @@
+ ----------------------------
+|    Gerber Plotting Log     |
+|          Started           |
+|  Mon Jan 23 17:27:33 2017  |
+ ----------------------------
+
+
+Processing SoldermaskTop.gdo
+    Number of Apertures     = 16
+    Number of Moves         = 227
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 227
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 150.447 (IN)
+
+Processing SoldermaskBottom.gdo
+    Number of Apertures     = 9
+    Number of Moves         = 137
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 137
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 90.9297 (IN)
+
+Processing SolderPasteTop.gdo
+    Number of Apertures     = 7
+    Number of Moves         = 90
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 90
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 56.0909 (IN)
+
+Processing SolderPasteBottom.gdo
+    Number of Apertures     = 0
+    Number of Moves         = 0
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 0 (IN)
+
+Processing GeneratedSilkscreenTop.gdo
+    Number of Apertures     = 8
+    Number of Moves         = 559
+    Number of Draws         = 10430
+    Number of Arcs          = 0
+    Number of Flashes       = 2
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 119.198 (IN)
+    Total Move Length       = 268.795 (IN)
+
+Processing GeneratedSilkscreenBottom.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 0
+    Number of Draws         = 4
+    Number of Arcs          = 0
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 15.8 (IN)
+    Total Move Length       = 0 (IN)
+
+Processing EtchLayer4Bottom.gdo
+    Number of Apertures     = 9
+    Number of Moves         = 137
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 137
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 90.9297 (IN)
+
+Processing EtchLayer3Neg.gdo
+    Number of Apertures     = 2
+    Number of Moves         = 146
+    Number of Draws         = 419
+    Number of Arcs          = 627
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 2
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 283.816 (IN)
+    Total Move Length       = 48.7295 (IN)
+
+Processing EtchLayer3.gdo
+    Number of Apertures     = 11
+    Number of Moves         = 283
+    Number of Draws         = 419
+    Number of Arcs          = 627
+    Number of Flashes       = 137
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 2
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 283.816 (IN)
+    Total Move Length       = 140.306 (IN)
+
+Processing EtchLayer2Neg.gdo
+    Number of Apertures     = 2
+    Number of Moves         = 45
+    Number of Draws         = 312
+    Number of Arcs          = 610
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 1
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 260.919 (IN)
+    Total Move Length       = 23.0184 (IN)
+
+Processing EtchLayer2.gdo
+    Number of Apertures     = 11
+    Number of Moves         = 182
+    Number of Draws         = 312
+    Number of Arcs          = 610
+    Number of Flashes       = 137
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 1
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 260.919 (IN)
+    Total Move Length       = 114.827 (IN)
+
+Processing EtchLayer1Top.gdo
+    Number of Apertures     = 18
+    Number of Moves         = 361
+    Number of Draws         = 370
+    Number of Arcs          = 0
+    Number of Flashes       = 227
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 48.3896 (IN)
+    Total Move Length       = 260.503 (IN)
+
+Processing DrillDrawingThrough.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 803
+    Number of Draws         = 20581
+    Number of Arcs          = 0
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 126.295 (IN)
+    Total Move Length       = 486.904 (IN)
+
+ ---------------------------
+|    Gerber Plotting Log     |
+|          Finished          |
+|  Mon Jan 23 17:27:36 2017  |
+ ----------------------------

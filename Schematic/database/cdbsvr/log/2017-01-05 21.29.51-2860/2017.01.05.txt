@@ -1,0 +1,98 @@
+[2017.01.05 21:29:51] [0000m.00s.031ms] [0] WELCOME
+[2017.01.05 21:29:51] [0000m.00s.062ms] [1] iCDB Server ver.1.006, h6u2+m36XhxpX86jIwEfuw, build:351731 created 2009-06-29 11:54:20, sources stamp:h6u2+m36XhxpX86jIwEfuw
+[2017.01.05 21:29:51] [0000m.00s.062ms] [1] Copyright 2009 Mentor Graphics Corporation. All Rights Reserved.
+[2017.01.05 21:29:51] [0000m.00s.062ms] [1] GBS Install Id [10790], Flow Id [EE2007.6], Full Flow Name[Expedition Enterprise Flow], Exact Access Date[May 1 2009]
+[2017.01.05 21:29:51] [0000m.00s.078ms] [1] Machine [celab1]  User [clim]  PID [2860]
+[2017.01.05 21:29:51] [0000m.00s.078ms] [1] Operating system [Microsoft  Service Pack 1 (build 7601)]
+[2017.01.05 21:29:51] [0000m.00s.078ms] [1] WDIR [c:\temp\iCDB]
+[2017.01.05 21:29:51] [0000m.00s.078ms] [1] SDD_HOME [C:\modeltech_10.1b\2007.6EE\SDD_HOME]
+[2017.01.05 21:29:51] [0000m.00s.078ms] [1] SDD_PLATFORM [win32]
+[2017.01.05 21:29:51] [0000m.00s.078ms] [2] S: Loading config files
+[2017.01.05 21:29:51] [0000m.00s.078ms] [1] Config: WARNING: Could not open config file [H:\OstraCam_II\Schematic\database\cdbsvr\Server.cfg]
+[2017.01.05 21:29:51] [0000m.00s.078ms] [3] S: Config loaded
+[2017.01.05 21:29:51] [0000m.00s.109ms] [0] S: Single-user mode (auto)
+[2017.01.05 21:29:51] [0000m.00s.124ms] [0] S: Event polling mode autodetection
+[2017.01.05 21:29:51] [0000m.00s.124ms] [0] S: Started up automatically by iCDB Client: celab1:clim:1676
+[2017.01.05 21:29:51] [0000m.00s.124ms] [0] S: Auto close mode
+[2017.01.05 21:29:51] [0000m.00s.124ms] [0] S: Project [H:\OstraCam_II\Schematic\database]
+[2017.01.05 21:29:51] [0000m.00s.124ms] [0] S: Database ID [76fc-3653-b114-8661-0d01-f685-d01f-6850-f2b0-a0fe-9f1c-16c5]
+[2017.01.05 21:29:51] [0000m.00s.124ms] [0] S: START
+[2017.01.05 21:29:51] [0000m.00s.124ms] [0] S: Server startup lock file created
+[2017.01.05 21:29:51] [0000m.00s.140ms] [0] S: Listening for client connections on port [10000]
+[2017.01.05 21:29:51] [0000m.00s.140ms] [0] S: Server network ID [celab1:128.111.58.161,celab1:10000]
+[2017.01.05 21:29:51] [0000m.00s.140ms] [0] S: Server GUID [168a-d100-1b5b-9fdb-f4b2-f684-5b2f-6850-36f0-a0fe-9f1c-16c5]
+[2017.01.05 21:29:51] [0000m.00s.140ms] [0] S: Project GUID [76fc-3653-b114-8661-0d01-f685-d01f-6850-f2b0-a0fe-9f1c-16c5]
+[2017.01.05 21:29:51] [0000m.00s.171ms] [0] S: Wrote data to server address file
+[2017.01.05 21:29:51] [0000m.00s.187ms] [0] S: Server startup lock file removed
+[2017.01.05 21:29:51] [0000m.00s.218ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.01.05 21:29:51] [0000m.00s.218ms] [0] S: Local disc access time: 91 us
+[2017.01.05 21:29:51] [0000m.00s.218ms] [0] S: Filer access time: 1068 us
+[2017.01.05 21:29:51] [0000m.00s.218ms] [0] S: WARNING: Slow connection to iCDB database filer
+[2017.01.05 21:29:51] [0000m.00s.218ms] [0] S: WARNING: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2017.01.05 21:29:51] [0000m.00s.234ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1007] [1007]
+[2017.01.05 21:29:51] [0000m.00s.234ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1007] [1007]
+[2017.01.05 21:29:51] [0000m.00s.234ms] [0] SingleFile: [66be-cdc7-224f-0587] SFI version check [1007] [1007]
+[2017.01.05 21:29:51] [0000m.00s.234ms] [0] iCDB Server PI: Server & plugin session [9]
+[2017.01.05 21:29:51] [0000m.00s.234ms] [0] iCDB Server PI: Opening database [H:\OstraCam_II\Schematic\database]
+[2017.01.05 21:29:51] [0000m.00s.234ms] [0] iCDB Server PI: Database [H:\OstraCam_II\Schematic\database] opened
+[2017.01.05 21:29:51] [0000m.00s.234ms] [0] iCDB Server PI: Checking existence of constraint definitions
+[2017.01.05 21:29:51] [0000m.00s.234ms] [0] iCDB Server PI: Checking constraint definitions version
+[2017.01.05 21:29:51] [0000m.00s.265ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.6.4] up to date
+[2017.01.05 21:29:51] [0000m.00s.265ms] [0] iCDB Server PI: Initializing plugins
+[2017.01.05 21:29:51] [0000m.00s.280ms] [0] iCDB Server PI: Plugins initialized
+[2017.01.05 21:29:51] [0000m.00s.280ms] [0] S: iCDB database loaded
+[2017.01.05 21:29:51] [0000m.00s.280ms] [0] S: Starting threads
+[2017.01.05 21:29:51] [0000m.00s.280ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.01.05 21:29:51] [0000m.00s.280ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.01.05 21:29:51] [0000m.00s.280ms] [0] IT: Session [10] for host [celab1] user [clim] with process ID [1676] created
+[2017.01.05 21:29:51] [0000m.00s.280ms] [1] SC[10]: Registered sub-client [DxD] with ID [1] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:51] [0000m.00s.280ms] [1] SC[10]: Registered sub-client [xprob] with ID [2] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:51] [0000m.00s.390ms] [1] CMT: There are [1] clients now
+[2017.01.05 21:29:53] [0000m.02s.043ms] [1] SC[10]: Registered sub-client [SelectionHolder] with ID [3] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:54] [0000m.03s.229ms] [1] SC[10]: Registered sub-client [Navigator] with ID [4] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:54] [0000m.03s.244ms] [1] SC[10]: Registered sub-client [PlaceDevice] with ID [5] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:54] [0000m.03s.354ms] [1] SC[10]: Registered sub-client [OutputWindow] with ID [6] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:54] [0000m.03s.354ms] [1] SC[10]: Registered sub-client [SAE] with ID [7] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:54] [0000m.03s.354ms] [1] SC[10]: Registered sub-client [ICE] with ID [8] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:55] [0000m.03s.853ms] [1] SC[10]: Registered sub-client [DxDbSearch] with ID [9] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:57] [0000m.05s.584ms] [1] SC[10]: Registered sub-client [BlockCacheDxD:13033] with ID [10] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:57] [0000m.05s.584ms] [1] SC[10]: Registered sub-client [ObjectHolder19408] with ID [11] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:29:57] [0000m.05s.584ms] [1] SC[10]: Registered sub-client [GlobalNetAliasUpdater17750] with ID [12] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.583ms] [1] SC[10]: UnRegistered sub-client [GlobalNetAliasUpdater17750] with ID [12] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.583ms] [1] SC[10]: UnRegistered sub-client [BlockCacheDxD:13033] with ID [10] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.583ms] [1] SC[10]: UnRegistered sub-client [ObjectHolder19408] with ID [11] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.583ms] [1] SC[10]: UnRegistered sub-client [ICE] with ID [8] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.583ms] [1] SC[10]: UnRegistered sub-client [SelectionHolder] with ID [3] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.614ms] [1] SC[10]: UnRegistered sub-client [DxD] with ID [1] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.629ms] [1] SC[10]: UnRegistered sub-client [xprob] with ID [2] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.785ms] [1] SC[10]: UnRegistered sub-client [Navigator] with ID [4] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.785ms] [1] SC[10]: UnRegistered sub-client [OutputWindow] with ID [6] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.785ms] [1] SC[10]: UnRegistered sub-client [SAE] with ID [7] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.832ms] [1] SC[10]: UnRegistered sub-client [DxDbSearch] with ID [9] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.832ms] [1] SC[10]: UnRegistered sub-client [PlaceDevice] with ID [5] for session ID [10] host [celab1] user [clim] process ID [1676]
+[2017.01.05 21:44:56] [0015m.04s.895ms] [1] CMT: Removed client [10]
+[2017.01.05 21:44:56] [0015m.04s.895ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.01.05 21:44:58] [0015m.06s.642ms] [0] CMT: Starting server auto-close
+[2017.01.05 21:44:58] [0015m.06s.751ms] [0] S: Closing server
+[2017.01.05 21:44:58] [0015m.06s.876ms] [0] iCDB Server PI: Closing plugins
+[2017.01.05 21:44:58] [0015m.06s.876ms] [0] iCDB Server PI: Plugins closed
+[2017.01.05 21:44:58] [0015m.06s.876ms] [0] iCDB Server PI: Unloading database
+[2017.01.05 21:44:58] [0015m.06s.876ms] [0] iCDB Server PI: Saving storage
+[2017.01.05 21:44:58] [0015m.06s.876ms] [0] iCDB Server PI: Closing database
+[2017.01.05 21:44:58] [0015m.06s.876ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[116%] data[64%]
+[2017.01.05 21:44:58] [0015m.06s.876ms] [1] iCDB Server PI: Stats: Database file size [132592] bytes
+[2017.01.05 21:44:58] [0015m.06s.876ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.01.05 21:44:59] [0015m.07s.703ms] [0] iCDB Server PI: Database closed
+[2017.01.05 21:44:59] [0015m.07s.703ms] [0] iCDB Server PI: Defragmenting database
+[2017.01.05 21:44:59] [0015m.07s.703ms] [0] iCDB Server PI: Backuping database [H:\OstraCam_II\Schematic\database] to file [H:\OstraCam_II\Schematic\database\cdbback\2017-01-05 21.44.59-2860-d.zip]
+[2017.01.05 21:44:59] [0015m.07s.765ms] [0] iCDB Server PI: Backup database: DONE
+[2017.01.05 21:44:59] [0015m.07s.796ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1007] [1007]
+[2017.01.05 21:44:59] [0015m.07s.796ms] [0] SingleFile: [66be-cdc7-224f-0587] SFI version check [1007] [1007]
+[2017.01.05 21:44:59] [0015m.07s.812ms] [1] iCDB Server PI: Stats: Database file size: before[132616], after[72368], gain[60248]
+[2017.01.05 21:44:59] [0015m.07s.827ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.01.05 21:44:59] [0015m.07s.827ms] [0] iCDB Server PI: Removing database backup [H:\OstraCam_II\Schematic\database\cdbback\2017-01-05 21.44.59-2860-d.zip]
+[2017.01.05 21:44:59] [0015m.07s.843ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [836015] ticks
+[2017.01.05 21:44:59] [0015m.07s.843ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [245156] microseconds
+[2017.01.05 21:44:59] [0015m.07s.843ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [894]
+[2017.01.05 21:44:59] [0015m.07s.843ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3646] commands per second
+[2017.01.05 21:44:59] [0015m.07s.952ms] [0] S: STOP

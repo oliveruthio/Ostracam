@@ -1,0 +1,17 @@
+Expedition PCB - Pinnacle Version: 2009.0.352.034
+
+
+
+Environment Variables:
+----------------------
+GW2ODB_DIR = "C:\Valor\GW2ODB"
+HOMEDRIVE = "X:"
+HOMEPATH = "\"
+LM_LICENSE_FILE = "C:\ispLEVER_Classic1_7\license\license.dat;C:\ispLEVER_Classic\license\license.dat;1717@license.ece.ucsb.edu"
+MGC_HOME = "C:/modeltech_10.1b/2007.6EE/MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\modeltech_10.1b\2007.6EE\SDD_HOME\xe\win32\lib;C:\modeltech_10.1b\2007.6EE\SDD_HOME\wg\win32\lib;C:\modeltech_10.1b\2007.6EE\SDD_HOME\wv\win32\bin;C:\ProgramData\Oracle\Java\javapath;C:\modeltech_10.1b\2007.6EE\SDD_HOME\common\win32\bin;C:\modeltech_10.1b\2007.6EE\SDD_HOME\common\win32\lib;C:\ispLEVER_Classic1_7\ispcpld\bin;C:\ispLEVER_Classic1_7\ispFPGA\bin\nt;C:\ispLEVER_Classic1_7\active-hdl\BIN;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\altera\72sp3\quartus\bin;C:/modeltech_10.1b/2007.6EE/MGC_HOME.ixn/bin;C:/modeltech_10.1b/2007.6EE/MGC_HOME.ixn/lib;C:\modeltech_10.1b\2007.6EE\MGC_HOME.ixn\bin;C:\modeltech_10.1b\2007.6EE\MGC_HOME.ixn\lib;C:\tic3x4x\c3x4x\cgtools\bin;C:\Program Files\System Center Operations Manager 2007\;C:\Program Files (x86)\Flash Magic;C:\MENTOR~1\LICENS~1;"
+QUARTUS_ROOTDIR = "c:\altera\72sp3\quartus"
+SDD_HOME = "C:\modeltech_10.1b\2007.6EE\SDD_HOME"
+TEMP = "C:\Users\clim\AppData\Local\Temp"
+TMP = "C:\Users\clim\AppData\Local\Temp"

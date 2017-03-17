@@ -1,0 +1,9 @@
+
+Expedition PCB - Pinnacle Version: 2009.0.352.034
+
+Successfully read the design.
+Time spent Generating UPG
+Time spent Generating UPG
+Saved the design...
+Saved the design...
+Cannot Stop the Cross Probe Daemon

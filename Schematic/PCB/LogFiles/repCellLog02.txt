@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2009.0.352.034
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  H:\OstraCam_II\Schematic\PCB\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog02.txt
+
+Sat Jan 07 18:07:07 2017
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sat Jan 07 18:07:07 2017  ---------------
+
+
+
+
+---------------    Sat Jan 07 18:07:07 2017  ---------------
+
+

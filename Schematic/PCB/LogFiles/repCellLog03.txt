@@ -1,0 +1,39 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2009.0.352.034
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  H:\OstraCam_II\Schematic\PCB\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog03.txt
+
+Fri Jan 20 11:59:54 2017
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Fri Jan 20 11:59:54 2017  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Jan 20 11:59:54 2017  ---------------
+
+
+                                (_VB_DRILL_DRAWING_)THRU          (_VB_DRILL_DRAWING_)THRU        
+                                (_VB_DRILL_SYMBOLS_)THRU          (_VB_DRILL_SYMBOLS_)THRU        
+
+
+---------------    Fri Jan 20 11:59:54 2017  ---------------
+
+
+
+
+---------------    Fri Jan 20 11:59:54 2017  ---------------
+
+

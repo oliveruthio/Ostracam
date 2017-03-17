@@ -1,0 +1,280 @@
+
+                               Forward Annotation
+                               ------------------
+
+                        11:59 AM Friday, January 20, 2017
+               Job Name: H:\OstraCam_II\Schematic\PCB\Design1.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 18
+          Part Numb: BergConnector -> Vend Part: BergConnector 
+          Part Numb: BNC_Connector -> Vend Part: BNC_Connector 
+          Part Numb: ESP8266 -> Vend Part: ESP8266 
+          Part Numb: EZO-EC -> Vend Part: EZO-EC 
+          Part Numb: EZO-pH -> Vend Part: EZO-pH 
+          Part Numb: KEM_C0805_CAPACITORS -> Vend Part: KEM_C0805_CAPACITORS 
+          Part Numb: LM3490-3.3VREG -> Vend Part: LM3490-3.3VREG 
+          Part Numb: LNJ406K54RX -> Vend Part: LNJ406K54RX 
+          Part Numb: PJ-102AH -> Vend Part: PJ-102AH 
+          Part Numb: PMB_648 -> Vend Part: PMB_648 
+          Part Numb: R-78E5.0-0.5 -> Vend Part: R-78E5.0-0.5 
+          Part Numb: RES-0805 -> Vend Part: RES-0805 
+          Part Numb: TactileSwitch -> Vend Part: TactileSwitch 
+          Part Numb: TCA9517 -> Vend Part: TCA9517 
+          Part Numb: Temp_Pressure -> Vend Part: Temp_Pressure 
+          Part Numb: VOLTAGE_Regulator3.3LP -> Vend Part: VOLTAGE_Regulator3.3LP 
+          Part Numb: 22-03-2031 -> Vend Part: 22-03-2031 
+          Part Numb: 961104-6404-AR -> Vend Part: 961104-6404-AR 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+    WARNING: Block Schematic1, Page ESP8266_Main, Symbol ESP8266:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ESP8266
+      Symbol Property: Part Label = Processor_Board
+     PartsDB Property: Part Label = ESP8266
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Decoupling, Symbol C1:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Power, Symbol C15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Power, Symbol C14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page ESP8266_Main, Symbol C16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = KEM_C0805_CAPACITORS
+      Symbol Property: Part Name = CAP-08050
+     PartsDB Property: Part Name = KEM_C0805_CAPACITORS
+
+    WARNING: Block Schematic1, Page Power, Symbol D5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LNJ406K54RX
+      Symbol Property: Part Name = LED-0805
+     PartsDB Property: Part Name = LTST-C170CKT
+
+    WARNING: Block Schematic1, Page Power, Symbol D3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LNJ406K54RX
+      Symbol Property: Part Name = LED-0805
+     PartsDB Property: Part Name = LTST-C170CKT
+
+    WARNING: Block Schematic1, Page Power, Symbol D4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LNJ406K54RX
+      Symbol Property: Part Name = LED-0805
+     PartsDB Property: Part Name = LTST-C170CKT
+
+    WARNING: Block Schematic1, Page Power, Symbol D2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LNJ406K54RX
+      Symbol Property: Part Name = LED-0805
+     PartsDB Property: Part Name = LTST-C170CKT
+
+    WARNING: Block Schematic1, Page Power, Symbol D1:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LNJ406K54RX
+      Symbol Property: Part Name = LED-0805
+     PartsDB Property: Part Name = LTST-C170CKT
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 72 Symbols:
+              72  *********************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     37 nets were found containing 176 pins
+     72 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     This Logic Data was Compiled with 22 warnings.
+      Erroneous results may occur if not fixed.
+
+                                     NetLoad
+                                     -------
+
+                        11:59 AM Friday, January 20, 2017
+               Job Name: H:\OstraCam_II\Schematic\PCB\Design1.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be changed to spares.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+	WARNING:  Net "$2N156" is being renamed to "2N156" to match the change
+	in the schematic.
+
+     Netload completed successfully with 1 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+                              Variant data forward annotation log
+                              ================================
+
+
+Successful completion. No changes were found.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

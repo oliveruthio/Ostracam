@@ -1,0 +1,156 @@
+[2017.01.07 17:24:39] [0000m.00s.015ms] [0] WELCOME
+[2017.01.07 17:24:39] [0000m.00s.062ms] [1] iCDB Server ver.1.006, h6u2+m36XhxpX86jIwEfuw, build:351731 created 2009-06-29 11:54:20, sources stamp:h6u2+m36XhxpX86jIwEfuw
+[2017.01.07 17:24:39] [0000m.00s.062ms] [1] Copyright 2009 Mentor Graphics Corporation. All Rights Reserved.
+[2017.01.07 17:24:39] [0000m.00s.062ms] [1] GBS Install Id [10790], Flow Id [EE2007.6], Full Flow Name[Expedition Enterprise Flow], Exact Access Date[May 1 2009]
+[2017.01.07 17:24:39] [0000m.00s.078ms] [1] Machine [celab1]  User [clim]  PID [3104]
+[2017.01.07 17:24:39] [0000m.00s.078ms] [1] Operating system [Microsoft  Service Pack 1 (build 7601)]
+[2017.01.07 17:24:39] [0000m.00s.078ms] [1] WDIR [c:\temp\iCDB]
+[2017.01.07 17:24:39] [0000m.00s.078ms] [1] SDD_HOME [C:\modeltech_10.1b\2007.6EE\SDD_HOME]
+[2017.01.07 17:24:39] [0000m.00s.078ms] [1] SDD_PLATFORM [win32]
+[2017.01.07 17:24:39] [0000m.00s.078ms] [2] S: Loading config files
+[2017.01.07 17:24:39] [0000m.00s.078ms] [1] Config: WARNING: Could not open config file [H:\OstraCam_II\Schematic\database\cdbsvr\Server.cfg]
+[2017.01.07 17:24:39] [0000m.00s.078ms] [3] S: Config loaded
+[2017.01.07 17:24:39] [0000m.00s.109ms] [0] S: Single-user mode (auto)
+[2017.01.07 17:24:39] [0000m.00s.109ms] [0] S: Event polling mode autodetection
+[2017.01.07 17:24:39] [0000m.00s.109ms] [0] S: Started up automatically by iCDB Client: celab1:clim:5032
+[2017.01.07 17:24:39] [0000m.00s.109ms] [0] S: Auto close mode
+[2017.01.07 17:24:39] [0000m.00s.109ms] [0] S: Project [H:\OstraCam_II\Schematic\database]
+[2017.01.07 17:24:39] [0000m.00s.109ms] [0] S: Database ID [76fc-3653-b114-8661-0d01-f685-d01f-6850-f2b0-a0fe-9f1c-16c5]
+[2017.01.07 17:24:39] [0000m.00s.109ms] [0] S: START
+[2017.01.07 17:24:39] [0000m.00s.109ms] [0] S: Server startup lock file created
+[2017.01.07 17:24:39] [0000m.00s.124ms] [0] S: Listening for client connections on port [10000]
+[2017.01.07 17:24:39] [0000m.00s.124ms] [0] S: Server network ID [celab1:128.111.58.161,celab1:10000]
+[2017.01.07 17:24:39] [0000m.00s.124ms] [0] S: Server GUID [1f37-a24b-38c7-81b8-7d49-178c-d491-7850-f4a0-a0fe-9f1c-16c5]
+[2017.01.07 17:24:39] [0000m.00s.124ms] [0] S: Project GUID [76fc-3653-b114-8661-0d01-f685-d01f-6850-f2b0-a0fe-9f1c-16c5]
+[2017.01.07 17:24:39] [0000m.00s.156ms] [0] S: Wrote data to server address file
+[2017.01.07 17:24:39] [0000m.00s.156ms] [0] S: Server startup lock file removed
+[2017.01.07 17:24:39] [0000m.00s.187ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] S: Local disc access time: 99 us
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] S: Filer access time: 422 us
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1007] [1007]
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1007] [1007]
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] SingleFile: [66be-cdc7-224f-0587] SFI version check [1007] [1007]
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] iCDB Server PI: Server & plugin session [80]
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] iCDB Server PI: Opening database [H:\OstraCam_II\Schematic\database]
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] iCDB Server PI: Database [H:\OstraCam_II\Schematic\database] opened
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] iCDB Server PI: Checking existence of constraint definitions
+[2017.01.07 17:24:39] [0000m.00s.202ms] [0] iCDB Server PI: Checking constraint definitions version
+[2017.01.07 17:24:39] [0000m.00s.234ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.6.4] up to date
+[2017.01.07 17:24:39] [0000m.00s.234ms] [0] iCDB Server PI: Initializing plugins
+[2017.01.07 17:24:39] [0000m.00s.234ms] [0] iCDB Server PI: Plugins initialized
+[2017.01.07 17:24:39] [0000m.00s.234ms] [0] S: iCDB database loaded
+[2017.01.07 17:24:39] [0000m.00s.234ms] [0] S: Starting threads
+[2017.01.07 17:24:39] [0000m.00s.234ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.01.07 17:24:39] [0000m.00s.234ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.01.07 17:24:39] [0000m.00s.234ms] [1] SCL: WARNING: Could not find client [81] stat data
+[2017.01.07 17:24:39] [0000m.00s.234ms] [0] IT: Session [81] for host [celab1] user [clim] with process ID [5032] created
+[2017.01.07 17:24:39] [0000m.00s.234ms] [1] SC[81]: Registered sub-client [DxD] with ID [1] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:24:39] [0000m.00s.249ms] [1] SC[81]: Registered sub-client [xprob] with ID [2] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:24:39] [0000m.00s.343ms] [1] CMT: There are [1] clients now
+[2017.01.07 17:24:41] [0000m.02s.464ms] [1] SC[81]: Registered sub-client [SelectionHolder] with ID [3] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:24:43] [0000m.03s.697ms] [1] SC[81]: Registered sub-client [Navigator] with ID [4] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:24:43] [0000m.03s.697ms] [1] SC[81]: Registered sub-client [PlaceDevice] with ID [5] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:24:43] [0000m.03s.759ms] [1] SC[81]: Registered sub-client [OutputWindow] with ID [6] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:24:43] [0000m.03s.759ms] [1] SC[81]: Registered sub-client [SAE] with ID [7] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:24:43] [0000m.03s.759ms] [1] SC[81]: Registered sub-client [ICE] with ID [8] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:24:43] [0000m.04s.274ms] [1] SC[81]: Registered sub-client [DxDbSearch] with ID [9] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:25:06] [0000m.27s.393ms] [0] IT: Session [82] for host [celab1] user [clim] with process ID [4164] created
+[2017.01.07 17:25:06] [0000m.27s.393ms] [1] SC[82]: Registered sub-client [Expedition PCB_2124582889] with ID [1] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:25:06] [0000m.27s.424ms] [1] CMT: There are [2] clients now
+[2017.01.07 17:25:09] [0000m.29s.749ms] [1] SC[82]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:25:34] [0000m.55s.395ms] [1] SC[81]: Registered sub-client [BlockCacheDxD:22814] with ID [10] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:25:34] [0000m.55s.395ms] [1] SC[81]: Registered sub-client [ObjectHolder6179] with ID [11] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:25:34] [0000m.55s.395ms] [1] SC[81]: Registered sub-client [GlobalNetAliasUpdater789] with ID [12] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:28:16] [0003m.36s.621ms] [0] IT: Session [83] for host [celab1] user [clim] with process ID [4636] created
+[2017.01.07 17:28:16] [0003m.36s.621ms] [1] SC[83]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [83] host [celab1] user [clim] process ID [4636]
+[2017.01.07 17:28:16] [0003m.36s.637ms] [1] SC[83]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [83] host [celab1] user [clim] process ID [4636]
+[2017.01.07 17:28:16] [0003m.36s.668ms] [1] CMT: There are [3] clients now
+[2017.01.07 17:28:16] [0003m.36s.668ms] [1] CMT: Removed client [83]
+[2017.01.07 17:28:16] [0003m.36s.668ms] [1] CMT: There are [2] clients now
+[2017.01.07 17:28:20] [0003m.40s.568ms] [0] IT: Session [84] for host [celab1] user [clim] with process ID [2628] created
+[2017.01.07 17:28:20] [0003m.40s.568ms] [1] SC[84]: Registered sub-client [Packager_2124776080] with ID [1] for session ID [84] host [celab1] user [clim] process ID [2628]
+[2017.01.07 17:28:20] [0003m.40s.599ms] [1] CMT: There are [3] clients now
+[2017.01.07 17:28:21] [0003m.42s.269ms] [1] SC[84]: UnRegistered sub-client [Packager_2124776080] with ID [1] for session ID [84] host [celab1] user [clim] process ID [2628]
+[2017.01.07 17:28:21] [0003m.42s.347ms] [1] CMT: Removed client [84]
+[2017.01.07 17:28:21] [0003m.42s.347ms] [1] CMT: There are [2] clients now
+[2017.01.07 17:47:19] [0022m.39s.740ms] [1] SC[81]: UnRegistered sub-client [GlobalNetAliasUpdater789] with ID [12] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.740ms] [1] SC[81]: UnRegistered sub-client [BlockCacheDxD:22814] with ID [10] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.740ms] [1] SC[81]: UnRegistered sub-client [ObjectHolder6179] with ID [11] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.755ms] [1] SC[81]: UnRegistered sub-client [ICE] with ID [8] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.755ms] [1] SC[81]: UnRegistered sub-client [SelectionHolder] with ID [3] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.771ms] [1] SC[81]: UnRegistered sub-client [DxD] with ID [1] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.787ms] [1] SC[81]: UnRegistered sub-client [xprob] with ID [2] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.927ms] [1] SC[81]: UnRegistered sub-client [Navigator] with ID [4] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.927ms] [1] SC[81]: UnRegistered sub-client [OutputWindow] with ID [6] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.927ms] [1] SC[81]: UnRegistered sub-client [SAE] with ID [7] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.958ms] [1] SC[81]: UnRegistered sub-client [DxDbSearch] with ID [9] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.39s.974ms] [1] SC[81]: UnRegistered sub-client [PlaceDevice] with ID [5] for session ID [81] host [celab1] user [clim] process ID [5032]
+[2017.01.07 17:47:19] [0022m.40s.083ms] [1] CMT: Removed client [81]
+[2017.01.07 17:47:19] [0022m.40s.083ms] [1] CMT: There are [1] clients now
+[2017.01.07 17:47:28] [0022m.48s.959ms] [0] IT: Session [85] for host [celab1] user [clim] with process ID [3896] created
+[2017.01.07 17:47:28] [0022m.48s.959ms] [1] SC[85]: Registered sub-client [DxD] with ID [1] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:28] [0022m.48s.975ms] [1] SC[85]: Registered sub-client [xprob] with ID [2] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:28] [0022m.48s.975ms] [1] SC[85]: Registered sub-client [SelectionHolder] with ID [3] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:28] [0022m.49s.037ms] [1] CMT: There are [2] clients now
+[2017.01.07 17:47:29] [0022m.49s.771ms] [1] SC[85]: Registered sub-client [Navigator] with ID [4] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:29] [0022m.49s.771ms] [1] SC[85]: Registered sub-client [PlaceDevice] with ID [5] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:29] [0022m.49s.833ms] [1] SC[85]: Registered sub-client [OutputWindow] with ID [6] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:29] [0022m.49s.833ms] [1] SC[85]: Registered sub-client [SAE] with ID [7] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:29] [0022m.49s.833ms] [1] SC[85]: Registered sub-client [ICE] with ID [8] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:30] [0022m.50s.738ms] [1] SC[85]: Registered sub-client [DxDbSearch] with ID [9] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:35] [0022m.55s.792ms] [1] SC[85]: Registered sub-client [BlockCacheDxD:26997] with ID [10] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:35] [0022m.55s.792ms] [1] SC[85]: Registered sub-client [ObjectHolder5648] with ID [11] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:47:35] [0022m.55s.792ms] [1] SC[85]: Registered sub-client [GlobalNetAliasUpdater23518] with ID [12] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:48:18] [0023m.38s.583ms] [0] IT: Session [86] for host [celab1] user [clim] with process ID [204] created
+[2017.01.07 17:48:18] [0023m.38s.583ms] [1] SC[86]: Registered sub-client [CDBPackagerGUI] with ID [1] for session ID [86] host [celab1] user [clim] process ID [204]
+[2017.01.07 17:48:18] [0023m.38s.599ms] [1] SC[86]: UnRegistered sub-client [CDBPackagerGUI] with ID [1] for session ID [86] host [celab1] user [clim] process ID [204]
+[2017.01.07 17:48:18] [0023m.38s.614ms] [1] CMT: There are [3] clients now
+[2017.01.07 17:48:18] [0023m.38s.614ms] [1] CMT: Removed client [86]
+[2017.01.07 17:48:18] [0023m.38s.614ms] [1] CMT: There are [2] clients now
+[2017.01.07 17:48:22] [0023m.43s.107ms] [0] IT: Session [87] for host [celab1] user [clim] with process ID [3460] created
+[2017.01.07 17:48:22] [0023m.43s.107ms] [1] SC[87]: Registered sub-client [Packager_2125978630] with ID [1] for session ID [87] host [celab1] user [clim] process ID [3460]
+[2017.01.07 17:48:22] [0023m.43s.201ms] [1] CMT: There are [3] clients now
+[2017.01.07 17:48:24] [0023m.45s.104ms] [1] SC[87]: UnRegistered sub-client [Packager_2125978630] with ID [1] for session ID [87] host [celab1] user [clim] process ID [3460]
+[2017.01.07 17:48:24] [0023m.45s.166ms] [1] CMT: Removed client [87]
+[2017.01.07 17:48:24] [0023m.45s.166ms] [1] CMT: There are [2] clients now
+[2017.01.07 17:49:09] [0024m.30s.188ms] [1] SC[82]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:49:09] [0024m.30s.188ms] [1] SC[82]: Registered sub-client [EEVM_EEVM_1636056] with ID [3] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:49:09] [0024m.30s.188ms] [1] SC[82]: UnRegistered sub-client [EEVM_EEVM_1636056] with ID [3] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:49:29] [0024m.50s.530ms] [1] SC[82]: Registered sub-client [EEVM_EEVM_1634188] with ID [4] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:49:29] [0024m.50s.530ms] [1] SC[82]: UnRegistered sub-client [EEVM_EEVM_1634188] with ID [4] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:50:11] [0025m.32s.024ms] [1] SC[82]: Registered sub-client [EEVM_EEVM_1635748] with ID [5] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:50:11] [0025m.32s.024ms] [1] SC[82]: UnRegistered sub-client [EEVM_EEVM_1635748] with ID [5] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:55:20] [0030m.40s.833ms] [1] SC[82]: Registered sub-client [EEVM_EEVM_1632764] with ID [6] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:55:20] [0030m.40s.833ms] [1] SC[82]: UnRegistered sub-client [EEVM_EEVM_1632764] with ID [6] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:56:11] [0031m.32s.057ms] [1] SC[85]: UnRegistered sub-client [GlobalNetAliasUpdater23518] with ID [12] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:11] [0031m.32s.057ms] [1] SC[85]: UnRegistered sub-client [BlockCacheDxD:26997] with ID [10] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:11] [0031m.32s.057ms] [1] SC[85]: UnRegistered sub-client [ObjectHolder5648] with ID [11] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:11] [0031m.32s.057ms] [1] SC[85]: UnRegistered sub-client [ICE] with ID [8] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:11] [0031m.32s.057ms] [1] SC[85]: UnRegistered sub-client [SelectionHolder] with ID [3] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:19] [0031m.40s.300ms] [1] SC[82]: UnRegistered sub-client [Expedition PCB_2124582889] with ID [1] for session ID [82] host [celab1] user [clim] process ID [4164]
+[2017.01.07 17:56:19] [0031m.40s.346ms] [1] CMT: Removed client [82]
+[2017.01.07 17:56:19] [0031m.40s.346ms] [1] CMT: There are [1] clients now
+[2017.01.07 17:56:20] [0031m.41s.290ms] [1] SC[85]: UnRegistered sub-client [DxD] with ID [1] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:20] [0031m.41s.306ms] [1] SC[85]: UnRegistered sub-client [xprob] with ID [2] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:20] [0031m.41s.431ms] [1] SC[85]: UnRegistered sub-client [Navigator] with ID [4] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:20] [0031m.41s.431ms] [1] SC[85]: UnRegistered sub-client [OutputWindow] with ID [6] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:20] [0031m.41s.431ms] [1] SC[85]: UnRegistered sub-client [SAE] with ID [7] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:20] [0031m.41s.493ms] [1] SC[85]: UnRegistered sub-client [DxDbSearch] with ID [9] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:20] [0031m.41s.493ms] [1] SC[85]: UnRegistered sub-client [PlaceDevice] with ID [5] for session ID [85] host [celab1] user [clim] process ID [3896]
+[2017.01.07 17:56:20] [0031m.41s.556ms] [1] CMT: Removed client [85]
+[2017.01.07 17:56:20] [0031m.41s.556ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.01.07 17:56:22] [0031m.42s.644ms] [0] CMT: Starting server auto-close
+[2017.01.07 17:56:22] [0031m.42s.753ms] [0] S: Closing server
+[2017.01.07 17:56:22] [0031m.42s.878ms] [0] iCDB Server PI: Closing plugins
+[2017.01.07 17:56:22] [0031m.42s.878ms] [0] iCDB Server PI: Plugins closed
+[2017.01.07 17:56:22] [0031m.42s.878ms] [0] iCDB Server PI: Unloading database
+[2017.01.07 17:56:22] [0031m.42s.878ms] [0] iCDB Server PI: Saving storage
+[2017.01.07 17:56:22] [0031m.42s.878ms] [0] iCDB Server PI: Closing database
+[2017.01.07 17:56:22] [0031m.42s.878ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[4%] data[83%]
+[2017.01.07 17:56:22] [0031m.42s.878ms] [1] iCDB Server PI: Stats: Database file size [173232] bytes
+[2017.01.07 17:56:22] [0031m.43s.080ms] [0] iCDB Server PI: Database closed
+[2017.01.07 17:56:22] [0031m.43s.080ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [95858] ticks
+[2017.01.07 17:56:22] [0031m.43s.080ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [28109] microseconds
+[2017.01.07 17:56:22] [0031m.43s.080ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [282]
+[2017.01.07 17:56:22] [0031m.43s.080ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [10032] commands per second
+[2017.01.07 17:56:22] [0031m.43s.190ms] [0] S: STOP

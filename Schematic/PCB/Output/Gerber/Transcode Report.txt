@@ -1,0 +1,730 @@
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer1Top.gdo' ----   Fri Jan 20 11:10:51 2017
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2.gdo' ----   Fri Jan 20 11:10:51 2017
+
+D10   --> D101
+D14   --> D102
+D12   --> D103
+D15   --> D104
+D17   --> D105
+D13   --> D106
+D18   --> D107
+D11   --> D108
+D16   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3.gdo' ----   Fri Jan 20 11:10:51 2017
+
+D10   --> D110
+D14   --> D111
+D12   --> D112
+D15   --> D113
+D17   --> D114
+D13   --> D115
+D18   --> D116
+D11   --> D117
+D16   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer4Bottom.gdo' ----   Fri Jan 20 11:10:51 2017
+
+D10   --> D119
+D11   --> D120
+D15   --> D121
+D13   --> D122
+D16   --> D123
+D18   --> D124
+D14   --> D125
+D19   --> D126
+D12   --> D127
+D17   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenBottom.gdo' ----   Fri Jan 20 11:10:51 2017
+
+D10   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenTop.gdo' ----   Fri Jan 20 11:10:51 2017
+
+D12   --> D130
+D14   --> D131
+D11   --> D132
+D13   --> D133
+D15   --> D134
+D10   --> D135
+D16   --> D136
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskBottom.gdo' ----   Fri Jan 20 11:10:51 2017
+
+D10   --> D137
+D14   --> D138
+D12   --> D139
+D15   --> D140
+D17   --> D141
+D13   --> D142
+D18   --> D143
+D11   --> D144
+D16   --> D145
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskTop.gdo' ----   Fri Jan 20 11:10:52 2017
+
+D10   --> D146
+D19   --> D147
+D12   --> D148
+D70   --> D149
+D20   --> D150
+D14   --> D151
+D23   --> D152
+D11   --> D153
+D71   --> D154
+D15   --> D155
+D13   --> D156
+D18   --> D157
+D16   --> D158
+D17   --> D159
+D21   --> D160
+D22   --> D161
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\SolderPasteTop.gdo' ----   Fri Jan 20 11:10:52 2017
+
+D11   --> D162
+D10   --> D163
+D14   --> D164
+D12   --> D165
+D13   --> D166
+D15   --> D167
+D16   --> D168
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer1Top.gdo' ----   Fri Jan 20 11:30:02 2017
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D10   --> D101
+D11   --> D102
+D17   --> D103
+D18   --> D104
+D70   --> D105
+D16   --> D106
+D19   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2Neg.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D10   --> D110
+D11   --> D111
+D17   --> D112
+D18   --> D113
+D70   --> D114
+D16   --> D115
+D19   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3Neg.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D10   --> D117
+D11   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer4Bottom.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D10   --> D119
+D11   --> D120
+D16   --> D121
+D14   --> D122
+D17   --> D123
+D19   --> D124
+D15   --> D125
+D12   --> D126
+D13   --> D127
+D18   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenBottom.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D10   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenTop.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D12   --> D130
+D14   --> D131
+D11   --> D132
+D13   --> D133
+D15   --> D134
+D10   --> D135
+D16   --> D136
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskBottom.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D10   --> D137
+D15   --> D138
+D13   --> D139
+D16   --> D140
+D18   --> D141
+D14   --> D142
+D11   --> D143
+D12   --> D144
+D17   --> D145
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskTop.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D10   --> D146
+D70   --> D147
+D13   --> D148
+D71   --> D149
+D21   --> D150
+D15   --> D151
+D11   --> D152
+D12   --> D153
+D20   --> D154
+D16   --> D155
+D14   --> D156
+D19   --> D157
+D17   --> D158
+D18   --> D159
+D22   --> D160
+D23   --> D161
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SolderPasteTop.gdo' ----   Fri Jan 20 11:30:04 2017
+
+D11   --> D162
+D10   --> D163
+D14   --> D164
+D12   --> D165
+D13   --> D166
+D15   --> D167
+D16   --> D168
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer1Top.gdo' ----   Fri Jan 20 12:00:48 2017
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D10   --> D101
+D11   --> D102
+D17   --> D103
+D18   --> D104
+D70   --> D105
+D16   --> D106
+D19   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2Neg.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D10   --> D110
+D11   --> D111
+D17   --> D112
+D18   --> D113
+D70   --> D114
+D16   --> D115
+D19   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3Neg.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D10   --> D117
+D11   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer4Bottom.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D10   --> D119
+D15   --> D120
+D13   --> D121
+D16   --> D122
+D18   --> D123
+D14   --> D124
+D11   --> D125
+D12   --> D126
+D17   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenBottom.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenTop.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D12   --> D129
+D14   --> D130
+D11   --> D131
+D13   --> D132
+D15   --> D133
+D10   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskBottom.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D10   --> D136
+D15   --> D137
+D13   --> D138
+D16   --> D139
+D18   --> D140
+D14   --> D141
+D11   --> D142
+D12   --> D143
+D17   --> D144
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskTop.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D10   --> D145
+D70   --> D146
+D13   --> D147
+D71   --> D148
+D21   --> D149
+D15   --> D150
+D11   --> D151
+D12   --> D152
+D20   --> D153
+D16   --> D154
+D14   --> D155
+D19   --> D156
+D17   --> D157
+D18   --> D158
+D22   --> D159
+D23   --> D160
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SolderPasteTop.gdo' ----   Fri Jan 20 12:00:50 2017
+
+D11   --> D161
+D10   --> D162
+D14   --> D163
+D12   --> D164
+D13   --> D165
+D15   --> D166
+D16   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer1Top.gdo' ----   Fri Jan 20 12:02:24 2017
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D10   --> D101
+D11   --> D102
+D17   --> D103
+D18   --> D104
+D70   --> D105
+D16   --> D106
+D19   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2Neg.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D10   --> D110
+D11   --> D111
+D17   --> D112
+D18   --> D113
+D70   --> D114
+D16   --> D115
+D19   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3Neg.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D10   --> D117
+D11   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer4Bottom.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D10   --> D119
+D15   --> D120
+D13   --> D121
+D16   --> D122
+D18   --> D123
+D14   --> D124
+D11   --> D125
+D12   --> D126
+D17   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenBottom.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenTop.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D12   --> D129
+D14   --> D130
+D11   --> D131
+D13   --> D132
+D15   --> D133
+D10   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskBottom.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D10   --> D136
+D15   --> D137
+D13   --> D138
+D16   --> D139
+D18   --> D140
+D14   --> D141
+D11   --> D142
+D12   --> D143
+D17   --> D144
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskTop.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D10   --> D145
+D70   --> D146
+D13   --> D147
+D71   --> D148
+D21   --> D149
+D15   --> D150
+D11   --> D151
+D12   --> D152
+D20   --> D153
+D16   --> D154
+D14   --> D155
+D19   --> D156
+D17   --> D157
+D18   --> D158
+D22   --> D159
+D23   --> D160
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SolderPasteTop.gdo' ----   Fri Jan 20 12:02:27 2017
+
+D11   --> D161
+D10   --> D162
+D14   --> D163
+D12   --> D164
+D13   --> D165
+D15   --> D166
+D16   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer1Top.gdo' ----   Fri Jan 20 12:07:05 2017
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D10   --> D101
+D11   --> D102
+D17   --> D103
+D18   --> D104
+D70   --> D105
+D16   --> D106
+D19   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2Neg.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D10   --> D110
+D11   --> D111
+D17   --> D112
+D18   --> D113
+D70   --> D114
+D16   --> D115
+D19   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3Neg.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D10   --> D117
+D11   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer4Bottom.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D10   --> D119
+D15   --> D120
+D13   --> D121
+D16   --> D122
+D18   --> D123
+D14   --> D124
+D11   --> D125
+D12   --> D126
+D17   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenBottom.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenTop.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D12   --> D129
+D14   --> D130
+D11   --> D131
+D13   --> D132
+D15   --> D133
+D10   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskBottom.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D10   --> D136
+D15   --> D137
+D13   --> D138
+D16   --> D139
+D18   --> D140
+D14   --> D141
+D11   --> D142
+D12   --> D143
+D17   --> D144
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskTop.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D10   --> D145
+D70   --> D146
+D13   --> D147
+D71   --> D148
+D21   --> D149
+D15   --> D150
+D11   --> D151
+D12   --> D152
+D20   --> D153
+D16   --> D154
+D14   --> D155
+D19   --> D156
+D17   --> D157
+D18   --> D158
+D22   --> D159
+D23   --> D160
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'H:\OstraCam_II\Schematic\PCB\Output\Gerber\SolderPasteTop.gdo' ----   Fri Jan 20 12:07:07 2017
+
+D11   --> D161
+D10   --> D162
+D14   --> D163
+D12   --> D164
+D13   --> D165
+D15   --> D166
+D16   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer1Top.gdo' ----   Sun Jan 22 20:08:41 2017
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2.gdo' ----   Sun Jan 22 20:08:48 2017
+
+D10   --> D101
+D11   --> D102
+D17   --> D103
+D18   --> D104
+D70   --> D105
+D16   --> D106
+D19   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer2Neg.gdo' ----   Sun Jan 22 20:08:52 2017
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3.gdo' ----   Sun Jan 22 20:08:54 2017
+
+D10   --> D110
+D11   --> D111
+D17   --> D112
+D18   --> D113
+D70   --> D114
+D16   --> D115
+D19   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer3Neg.gdo' ----   Sun Jan 22 20:08:55 2017
+
+D10   --> D117
+D11   --> D118
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\EtchLayer4Bottom.gdo' ----   Sun Jan 22 20:08:55 2017
+
+D10   --> D119
+D15   --> D120
+D13   --> D121
+D16   --> D122
+D18   --> D123
+D14   --> D124
+D11   --> D125
+D12   --> D126
+D17   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenBottom.gdo' ----   Sun Jan 22 20:08:56 2017
+
+D10   --> D128
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\GeneratedSilkscreenTop.gdo' ----   Sun Jan 22 20:08:56 2017
+
+D12   --> D129
+D14   --> D130
+D11   --> D131
+D13   --> D132
+D15   --> D133
+D10   --> D134
+D16   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskBottom.gdo' ----   Sun Jan 22 20:08:56 2017
+
+D10   --> D136
+D15   --> D137
+D13   --> D138
+D16   --> D139
+D18   --> D140
+D14   --> D141
+D11   --> D142
+D12   --> D143
+D17   --> D144
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\SoldermaskTop.gdo' ----   Sun Jan 22 20:08:56 2017
+
+D10   --> D145
+D70   --> D146
+D13   --> D147
+D71   --> D148
+D21   --> D149
+D15   --> D150
+D11   --> D151
+D12   --> D152
+D20   --> D153
+D16   --> D154
+D14   --> D155
+D19   --> D156
+D17   --> D157
+D18   --> D158
+D22   --> D159
+D23   --> D160
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\OstraCam_II\Schematic\PCB\Output\Gerber\SolderPasteTop.gdo' ----   Sun Jan 22 20:08:56 2017
+
+D11   --> D161
+D10   --> D162
+D14   --> D163
+D12   --> D164
+D13   --> D165
+D15   --> D166
+D16   --> D167
+-----------------------------------------------------------------

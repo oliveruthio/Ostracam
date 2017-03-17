@@ -1,0 +1,38 @@
+
+                              SILKSCREEN GENERATOR
+                              --------------------
+
+                        12:06 PM Friday, January 20, 2017
+               Job Name: H:\OstraCam_II\Schematic\PCB\Design1.pcb
+
+
+    Silkscreen Side To Process           : BOTH
+
+    Process All Cell Types               : YES
+
+    Top Silkscreen For Selected Cells    : Silkscreen Reference Designator Top
+                                         : Silkscreen Outline Top
+                                         : Board Outline
+
+    Bottom Silkscreen For Selected Cells : Board Outline
+
+    Break Silkscreen Using               : Conductive Pads
+
+    Break Graphics Pad Clearance         : 6th
+
+    Break Graphics Via Clearance         : 6th
+
+    Break Text Pad Clearance             : 6th
+
+    Break Text Via Clearance             : 6th
+
+    Broken Graphics Line Width           : 6th
+
+    Broken Text Line Width               : 6th
+    
+
+
+    TOP Silkscreen Data Created Successfully (559 Geometries).
+
+
+    BOTTOM Silkscreen Data Created Successfully (1 Geometries).

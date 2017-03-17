@@ -1,0 +1,14 @@
+Wed Sep 24 17:08:08 2008
+
+Note: ICDB version: ver.1.002 (build 293638 created 2008-05-30 11:42:36)
+Note: ICDB engine version: ver.0.614 (build 293638 created 2008-05-30 11:42:36)
+CES client info: address: Azudas:Josh:2004, session id: 0x1A
+List of all iCDB clients:
+ => Client info: address: Azudas:Josh:3176, session id: 0x19, offline: 0, offline seconds: 0
+    (*) Sub-client: Expedition PCB_7206731
+    (*) Sub-client: ExpeditionCrossProber
+ => Client info: address: Azudas:Josh:2004, session id: 0x1A, offline: 0, offline seconds: 0
+    (*) Sub-client: Josh (BE CES)
+Loading C:\MentorGraphics\2007EE\SDD_HOME\standard\ce_ee.cns
+Note: iCDB connection status changed to: OnLine
+Note: iCDB server address: Azudas

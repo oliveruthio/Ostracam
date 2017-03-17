@@ -1,0 +1,74 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: Design1_layout_temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(34-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(8-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(8-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(8-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(12-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(8-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(12-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(8-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(8-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,BergConnector.1,(12-18-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(12-26-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(12-31-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,LED.2,(12-34-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,LED.2,(12-35-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,LED.2,(12-44-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)]  [O: FlatComp,RES.1,(12-45-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(17-4-23)]  [O: CesConstraint,PLANE_NETS,(17-25-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(17-4-23)]  [O: CesConstraint,PNET_CLEARANCES,(17-26-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_2,(17-4-23)]  [O: CesConstraint,PNET_UBORDERS,(17-27-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(17-6-23)]  [O: CesConstraint,PLANE_NETS,(17-41-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(17-6-23)]  [O: CesConstraint,PNET_CLEARANCES,(17-42-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_3,(17-6-23)]  [O: CesConstraint,PNET_UBORDERS,(17-43-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2017-01-07 17:59:12) 
+--------------------------------------------------------------------------------
